@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+685165,1.0,SavedShot,0.8369999694824218,0.5420000076293945,0.11030430346727371,Ollie Watkins,h,8865,OpenPlay,2025,RightFoot,29140,Aston Villa,Liverpool,4,2,2026-05-15 19:00:00,Morgan Rogers,Pass
+685166,7.0,MissedShots,0.874000015258789,0.6430000305175781,0.0743768960237503,Ollie Watkins,h,8865,OpenPlay,2025,RightFoot,29140,Aston Villa,Liverpool,4,2,2026-05-15 19:00:00,Emiliano Buendía,TakeOn
+685167,12.0,BlockedShot,0.7959999847412109,0.7080000305175781,0.01832100749015808,Matthew Cash,h,8864,SetPiece,2025,RightFoot,29140,Aston Villa,Liverpool,4,2,2026-05-15 19:00:00,Youri Tielemans,Pass
+685173,41.0,Goal,0.884000015258789,0.715,0.03554718941450119,Morgan Rogers,h,12412,FromCorner,2025,RightFoot,29140,Aston Villa,Liverpool,4,2,2026-05-15 19:00:00,Lucas Digne,Pass
+685179,56.0,Goal,0.895,0.42900001525878906,0.3653189241886139,Ollie Watkins,h,8865,OpenPlay,2025,RightFoot,29140,Aston Villa,Liverpool,4,2,2026-05-15 19:00:00,Morgan Rogers,Pass
+685180,58.0,SavedShot,0.9109999847412109,0.53,0.48873060941696167,Ollie Watkins,h,8865,OpenPlay,2025,LeftFoot,29140,Aston Villa,Liverpool,4,2,2026-05-15 19:00:00,Emiliano Buendía,Throughball
+685182,64.0,SavedShot,0.9430000305175781,0.3990000152587891,0.3970405161380768,Ollie Watkins,h,8865,OpenPlay,2025,RightFoot,29140,Aston Villa,Liverpool,4,2,2026-05-15 19:00:00,Morgan Rogers,Pass
+685183,69.0,ShotOnPost,0.8630000305175781,0.7180000305175781,0.04674374312162399,Emiliano Buendía,h,2203,OpenPlay,2025,RightFoot,29140,Aston Villa,Liverpool,4,2,2026-05-15 19:00:00,Matthew Cash,Pass
+685184,72.0,SavedShot,0.8090000152587891,0.5970000076293945,0.05796472728252411,Youri Tielemans,h,5956,OpenPlay,2025,RightFoot,29140,Aston Villa,Liverpool,4,2,2026-05-15 19:00:00,,None
+685185,72.0,SavedShot,0.9259999847412109,0.47700000762939454,0.5017732381820679,Pau Torres,h,6221,FromCorner,2025,LeftFoot,29140,Aston Villa,Liverpool,4,2,2026-05-15 19:00:00,,Rebound
+685186,72.0,Goal,0.965,0.51,0.7263607382774353,Ollie Watkins,h,8865,FromCorner,2025,RightFoot,29140,Aston Villa,Liverpool,4,2,2026-05-15 19:00:00,,Rebound
+685189,88.0,Goal,0.8119999694824219,0.3139999961853027,0.03756604343652725,John McGinn,h,7723,OpenPlay,2025,LeftFoot,29140,Aston Villa,Liverpool,4,2,2026-05-15 19:00:00,Ollie Watkins,Pass
+685192,92.0,BlockedShot,0.7559999847412109,0.58,0.035787228494882584,Ross Barkley,h,592,OpenPlay,2025,LeftFoot,29140,Aston Villa,Liverpool,4,2,2026-05-15 19:00:00,Morgan Rogers,LayOff
+685193,94.0,BlockedShot,0.725999984741211,0.38599998474121094,0.04389861226081848,Lucas Digne,h,1823,DirectFreekick,2025,LeftFoot,29140,Aston Villa,Liverpool,4,2,2026-05-15 19:00:00,,Standard
+685168,19.0,MissedShots,0.7190000152587891,0.2929999923706055,0.013279887847602367,Joseph Gomez,a,987,OpenPlay,2025,RightFoot,29140,Aston Villa,Liverpool,4,2,2026-05-15 19:00:00,Alexis Mac Allister,Pass
+685169,24.0,MissedShots,0.7469999694824219,0.65,0.01470324769616127,Rio Ngumoha,a,13692,OpenPlay,2025,RightFoot,29140,Aston Villa,Liverpool,4,2,2026-05-15 19:00:00,Alexis Mac Allister,Chipped
+685170,26.0,SavedShot,0.7909999847412109,0.654000015258789,0.021425345912575722,Ryan Gravenberch,a,10697,OpenPlay,2025,RightFoot,29140,Aston Villa,Liverpool,4,2,2026-05-15 19:00:00,Rio Ngumoha,Pass
+685171,30.0,SavedShot,0.695,0.3890000152587891,0.012808981351554394,Dominik Szoboszlai,a,9788,OpenPlay,2025,RightFoot,29140,Aston Villa,Liverpool,4,2,2026-05-15 19:00:00,Curtis Jones,Pass
+685172,32.0,MissedShots,0.965,0.5790000152587891,0.20107971131801605,Alexis Mac Allister,a,8379,FromCorner,2025,Head,29140,Aston Villa,Liverpool,4,2,2026-05-15 19:00:00,Dominik Szoboszlai,Aerial
+685174,49.0,BlockedShot,0.8959999847412109,0.35400001525878905,0.04837185889482498,Curtis Jones,a,6665,OpenPlay,2025,RightFoot,29140,Aston Villa,Liverpool,4,2,2026-05-15 19:00:00,Rio Ngumoha,Cross
+685175,49.0,MissedShots,0.8590000152587891,0.325,0.042511481791734695,Joseph Gomez,a,987,OpenPlay,2025,RightFoot,29140,Aston Villa,Liverpool,4,2,2026-05-15 19:00:00,,Rebound
+685176,51.0,Goal,0.9259999847412109,0.575,0.19120150804519653,Virgil van Dijk,a,833,SetPiece,2025,Head,29140,Aston Villa,Liverpool,4,2,2026-05-15 19:00:00,Dominik Szoboszlai,Cross
+685177,55.0,ShotOnPost,0.8,0.7140000152587891,0.02278473600745201,Rio Ngumoha,a,13692,OpenPlay,2025,RightFoot,29140,Aston Villa,Liverpool,4,2,2026-05-15 19:00:00,Ryan Gravenberch,Pass
+685178,55.0,MissedShots,0.9059999847412109,0.4909999847412109,0.42624521255493164,Cody Gakpo,a,11296,OpenPlay,2025,RightFoot,29140,Aston Villa,Liverpool,4,2,2026-05-15 19:00:00,,Rebound
+685181,64.0,MissedShots,0.919000015258789,0.5029999923706054,0.04556097090244293,Cody Gakpo,a,11296,FromCorner,2025,Head,29140,Aston Villa,Liverpool,4,2,2026-05-15 19:00:00,Dominik Szoboszlai,Aerial
+685187,82.0,SavedShot,0.9769999694824218,0.5970000076293945,0.08720885962247849,Federico Chiesa,a,1433,FromCorner,2025,LeftFoot,29140,Aston Villa,Liverpool,4,2,2026-05-15 19:00:00,,None
+685188,82.0,BlockedShot,0.8059999847412109,0.7030000305175781,0.023043515160679817,Florian Wirtz,a,8397,FromCorner,2025,RightFoot,29140,Aston Villa,Liverpool,4,2,2026-05-15 19:00:00,Dominik Szoboszlai,Pass
+685190,90.0,BlockedShot,0.960999984741211,0.6769999694824219,0.0680699273943901,Rio Ngumoha,a,13692,OpenPlay,2025,RightFoot,29140,Aston Villa,Liverpool,4,2,2026-05-15 19:00:00,Milos Kerkez,Pass
+685191,91.0,Goal,0.9269999694824219,0.4829999923706055,0.31669360399246216,Virgil van Dijk,a,833,FromCorner,2025,Head,29140,Aston Villa,Liverpool,4,2,2026-05-15 19:00:00,Dominik Szoboszlai,Cross
+685194,96.0,MissedShots,0.875,0.5229999923706055,0.02704746276140213,Curtis Jones,a,6665,FromCorner,2025,Head,29140,Aston Villa,Liverpool,4,2,2026-05-15 19:00:00,Dominik Szoboszlai,Cross
