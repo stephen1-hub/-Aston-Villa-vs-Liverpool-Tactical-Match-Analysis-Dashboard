@@ -1,0 +1,21 @@
+football-tactical-dashboard/
+│
+├── data/
+│   └── aston_villa_vs_liverpool.csv
+│
+├── images/
+│   ├── dashboard_preview.png
+│   ├── shot_map.png
+│   └── xg_chart.png
+│
+├── notebooks/
+│   └── exploratory_analysis.ipynb
+│
+├── app/
+│   └── app24.py
+│
+├── requirements.txt
+│
+├── README.md
+│
+└── .gitignore
